@@ -1,1 +1,1 @@
-# corona.github.io
+# corona-count.github.io
